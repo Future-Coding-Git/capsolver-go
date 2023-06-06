@@ -10,7 +10,7 @@ import (
 
 func init() {
 	if ApiHost == "" {
-		ApiHost = "https://api.capsolver.com"
+		ApiHost = "https://api.capmonster.cloud"
 	}
 }
 
